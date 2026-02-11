@@ -1,0 +1,105 @@
+/* =========================================================
+    BloomFields - IOT (V1.0)
+    Enhanced with Production Safety Features
+    Location: Singosari, Malang, Jawa Timur
+    Copyright (c) 2026 BloomFields.id
+    All rights reserved.
+    
+    Website   : https://bloomfields.id
+    Contact   : +62 813 5701 6423
+========================================================= */
+{
+  
+    "tanggal_mulai": "2026-02-11",
+    "hst_mulai": 1,
+    "hst_max": 69,
+    "pompa_status": "OFF",
+    "pompa_manual_start": null,
+    "pompa_manual_timer": 30,
+    "nutrisi_target": "AB Mix Umum",
+    "hst": [
+        [
+            {
+                "jam": "13:08",
+                "durasi": 1
+            }
+        ],
+        [
+            {
+                "jam": "13:12",
+                "durasi": 1
+            },
+            {
+                "jam": "13:28",
+                "durasi": 1
+            },
+            {
+                "jam": "13:35",
+                "durasi": 1
+            },
+            {
+                "jam": "13:37",
+                "durasi": 1
+            },
+            {
+                "jam": "13:39",
+                "durasi": 1
+            },
+            {
+                "jam": "13:41",
+                "durasi": 1
+            },
+            {
+                "jam": "13:57",
+                "durasi": 5
+            },
+            {
+                "jam": "14:10",
+                "durasi": 1
+            },
+            {
+                "jam": "14:14",
+                "durasi": 1
+            },
+            {
+                "jam": "14:18",
+                "durasi": 1
+            },
+            {
+                "jam": "14:21",
+                "durasi": 1
+            }
+        ],
+        [
+            {
+                "jam": "13:03",
+                "durasi": 1
+            }
+        ]
+    ],
+    "logs_harian": {
+        "1": {
+            "tanggal": "2026-02-11",
+            "tinggi": 15,
+            "daun": 9,
+            "batang": 100,
+            "catatan": "",
+            "issue": "none"
+        },
+        "2": {
+            "tanggal": "2026-02-11",
+            "tinggi": 16,
+            "daun": 9,
+            "batang": 100,
+            "catatan": "tes hama mulai muncul",
+            "issue": "none"
+        }
+    },
+    "checklist_done": {
+        "1": []
+    },
+    "manual_pump_count": 2,
+    "parameter_lock": false,
+    "issue_reports": [],
+    "hst_aktif": 1
+}
